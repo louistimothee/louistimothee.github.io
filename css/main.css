@@ -13,13 +13,28 @@
     background: url(../bilder/instagram.png);
     background-size: cover;
     float: right;
-    
+    margin: 2%;
     
 }
 
 
 .card-text {
     color: black;
-    text-shadow: 1px 1px #000000;
+    font-size: 90%;
+    font-weight: 640;
     
+}
+
+.btn {
+
+    margin-bottom: 10%;
+    margin-top: 10%
+}
+
+span {
+    opacity: 0
+}
+
+.cardall {
+    float: right;
 }
