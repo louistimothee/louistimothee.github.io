@@ -12,6 +12,8 @@
 .cardinstagram {
     background: url(../bilder/instagram.png);
     background-size: cover;
+    float: right;
+    
     
 }
 
