@@ -8,3 +8,16 @@
     color: white;
     text-shadow: 2px 2px #000000;
 }
+
+.cardinstagram {
+    background: url(../bilder/instagram.png);
+    background-size: cover;
+    
+}
+
+
+.card-text {
+    color: black;
+    text-shadow: 1px 1px #000000;
+    
+}
