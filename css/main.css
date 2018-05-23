@@ -1,8 +1,12 @@
 .hero {
     background: url(../bilder/hero-bild.jpg);
-    background-size: cover;
-    background-position: center;
+    height: 100%;
     
+    background-position: left;
+    
+}
+.rechts{
+    background: url(../bilder/hero-bild.jpg);
 }
 .hero .container {
     color: white;
