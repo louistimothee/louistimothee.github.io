@@ -10,7 +10,11 @@
     color: white;
     text-shadow: 2px 2px #000000;
 }
-
+.body {
+    
+    border-left: 10px solid #900;
+    border-right: 10px solid #900;
+}
 
 
 
