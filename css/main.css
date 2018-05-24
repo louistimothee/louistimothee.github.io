@@ -9,11 +9,7 @@
 .hero .container {
     color: white;
     text-shadow: 2px 2px #000000;
-}
-.body {
     
-    border-left: 10px solid #900;
-    border-right: 10px solid #900;
 }
 
 
@@ -120,3 +116,13 @@ section .section-title {
 
 .card-img-top {
 }
+
+		body {
+		    border-left: 50px solid #353A40;
+		    border-right: 50px solid #353A40; 
+            padding-top: 50px solid #353A40;
+            background-color: #353A40;
+
+            
+		}
+				
